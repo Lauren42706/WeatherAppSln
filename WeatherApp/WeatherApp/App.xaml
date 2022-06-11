@@ -3,6 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="WeatherApp.App">
     <Application.Resources>
-
+        <ResourceDictionary>
+            <Color x:Key="Red">#d41111</Color>
+            <Color x:Key="OffWhite">#FAF9F6</Color>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

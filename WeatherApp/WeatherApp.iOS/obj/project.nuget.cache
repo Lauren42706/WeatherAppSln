@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "iNA4dPBqzEMGK7Ya1b8SVyHZNGSseHYEkhf3CsOz00p35mRYMiBUPLaoujDWHEZ4YocVRjk/BpJFO19xY0bzHQ==",
+  "dgSpecHash": "RVEIa2fdGw+6yHCNrlffex4/HUlrVjYc8ioQ8u0Snoixk18bYClHf52Xf9x7jfstzc3c9FivA3rtFaI37m00Hw==",
   "success": true,
   "projectFilePath": "C:\\Xamarin\\WeatherAppSln\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
